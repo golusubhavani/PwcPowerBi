@@ -14,9 +14,10 @@
 ![Slide1]( https://github.com/golusubhavani/PwcPowerBi/blob/main/Diversity%20%26%20Inclusion-t3_Page_1.jpg)
 ![Slide2]( https://github.com/golusubhavani/PwcPowerBi/blob/main/Diversity%20%26%20Inclusion-t3_Page_2.jpg)
 
-# Certificate
 
-<a href="https://github.com/golusubhavani/PwcPowerBi/blob/main/pwc.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+# Certificate
+Certificate [link](https://github.com/golusubhavani/PwcPowerBi/blob/main/pwc.pdf)
 
 # Contact
-[link](https://www.linkedin.com/in/golusu-bhavani-/)
+LinkedIn [link](https://www.linkedin.com/in/golusu-bhavani-/)
+
